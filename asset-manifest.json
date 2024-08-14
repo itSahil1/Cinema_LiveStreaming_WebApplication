@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cinema_LiveStreaming_WebApplication/static/css/main.74e983d8.css",
+    "main.js": "/Cinema_LiveStreaming_WebApplication/static/js/main.1d58b80a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Cinema_LiveStreaming_WebApplication/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Cinema_LiveStreaming_WebApplication/index.html",
+    "main.74e983d8.css.map": "/Cinema_LiveStreaming_WebApplication/static/css/main.74e983d8.css.map",
+    "main.1d58b80a.js.map": "/Cinema_LiveStreaming_WebApplication/static/js/main.1d58b80a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Cinema_LiveStreaming_WebApplication/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e983d8.css",
+    "static/js/main.1d58b80a.js"
+  ]
+}
